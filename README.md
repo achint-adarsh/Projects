@@ -10,5 +10,7 @@ Bootstrap Integration: Leverages Bootstrap 5 for consistent styling of component
 
 Technical Stack
 Frontend: React.js (Hooks, Context API)
+
 Styling: CSS3 (Flexbox), Bootstrap 5
+
 Build Tool: Vite (indicated by main.jsx structure)
